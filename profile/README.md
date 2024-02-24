@@ -10,12 +10,7 @@ Nous proposons **des ressources pack** et **des plugins** pour personnaliser vot
 
 
 
-![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974510044413952/pack_builder_start.png?ex=65ec82e6&is=65da0de6&hm=d6a46b663fe3e9f5762bfc812a0f8c95534985ea7166e448567973947647199d&)
-![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974508828069938/pack_builder_beta.png?ex=65ec82e5&is=65da0de5&hm=d954d3f9a819e55999b01d15e6723ec9011d6e47902c4d43021d6133dfb639f0&)
-![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974510493339648/pack_builder_title.png?ex=65ec82e6&is=65da0de6&hm=cded2e992b33aecd6b0d8518a48c30b0c43b9582d9dddf391b0194096203f23a&)
-![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974509063086190/pack_builder_description.png?ex=65ec82e5&is=65da0de5&hm=368244887b8bcee94237c4a05e653c966b188ad0e1915b0223fa817122ff4b2d&)
-![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974509537165393/pack_builder_feactures.png?ex=65ec82e5&is=65da0de5&hm=15951015ccf49f79829104b3b407904af3a4b2b2e26e3b414c143b7f1514221a&)
-[![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974509763665941/pack_builder_repository-button.png?ex=65ec82e5&is=65da0de5&hm=e8cbf9273b9e428a7cbce79ab56c7665c7f68e821bb439d01504c774126c9833&)](#) 
-[![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974510271037440/pack_builder_start-button.png?ex=65ec82e6&is=65da0de6&hm=bf5a08e241cfe32b0d86e8984b91a391a35a2b9b23693125dcff7403c40bc65c&)](#) 
-![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210974509306224640/pack_builder_end.png?ex=65ec82e5&is=65da0de5&hm=80407c56f1826fbef31c443d44884ae5e1166651089cf00688030d93e4572c58&)
+![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210980768847757353/pack_builder_top_1.png?ex=65ec88ba&is=65da13ba&hm=81db5ce2741ea784e9efbaaaf0bcd603e639166d842571b64ac491d4dc8947be&)
+[![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210980579609153656/pack_builder_repository-button_1.png?ex=65ec888d&is=65da138d&hm=9ff4ed120679573cda8fe5c6ad38f6fc20ba330ec9d06e08f5565b8a9e90d4af&)](#) 
+[![a](https://cdn.discordapp.com/attachments/1143185544956874822/1210980420922118275/pack_builder_bottom_2.png?ex=65ec8867&is=65da1367&hm=8d1c794caf6ca1172174b6962c29fc1d5f178315c0aabb301117b33e8a7e0d54&)](#)
 
